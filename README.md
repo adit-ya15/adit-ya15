@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**adit-ya15/adit-ya15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React Frontend Developer focused on building clean, performant, and scalable web applications using React and modern frontend tools.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React.js
+- JavaScript (ES6+)
+- Redux
+- Tailwind CSS
+- Firebase Authentication
+- GSAP Animations
+- REST APIs
+- Jest & React Testing Library
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### Spylt Milk – Animated Brand Website
+Animation-heavy brand website clone showcasing modern UI animations and smooth scroll interactions.  
+**Tech:** React, Tailwind CSS, GSAP  
+**Live:** https://spylt-milk-clone.netlify.app/    
+**Code:** https://github.com/adit-ya15/spylt-milk-clone  
+
+---
+
+### AI-Powered Movie Recommendation App
+Netflix-style application that helps users discover movies using AI-powered recommendations.  
+**Tech:** React, Redux, Firebase, Lazy Loading  
+**Live:** https://aipoweredmovieapp.netlify.app/      
+**Code:** https://github.com/adit-ya15/NetflixGpt  
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
