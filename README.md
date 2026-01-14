@@ -42,4 +42,5 @@ Netflix-style application that helps users discover movies using AI-powered reco
 ---
 
 ## 📫 Connect with me
+- **Portfilio:** https://aditya-frontend-portfolio.vercel.app/
 - **LinkedIn:** https://www.linkedin.com/in/aditya-verma-a809b4344/
