@@ -7,15 +7,8 @@
 
 
 <br>
-<h2 align="center"> 
-  ⚡ &nbsp;&nbsp; 𝐄 𝐍 𝐆 𝐈 𝐍 𝐄 𝐄 𝐑 𝐈 𝐍 𝐆 &nbsp;&nbsp; 𝐒 𝐂 𝐀 𝐋 𝐀 𝐁 𝐋 𝐄 &nbsp;&nbsp; 𝐒 𝐘 𝐒 𝐓 𝐄 𝐌 𝐒 
-</h2>
-<br>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Backend-focused+Full+Stack+Developer;Building+Production-Ready+Applications;Real-World+CI%2FCD+Pipelines+%26+DevOps;Engineering+Scalable+Architectures" alt="Typing SVG" />
-  </a>
+  <img src="https://hero-section-gules.vercel.app/api/hero?name=ADITYA" alt="Aditya Profile Hero" />
 </div>
 
 <br>
@@ -80,7 +73,7 @@
 
 <br>
 <h2 align="center"> 
-  📊 &nbsp;&nbsp; 𝐆 𝐈 𝐓 𝐇 𝐔 𝐁 &nbsp;&nbsp; 𝐈 𝐍 𝐒 𝐈 𝐆 𝐇 𝐓 𝐒 
+  𝐃 𝐄 𝐕 𝐄 𝐋 𝐎 𝐏 𝐄 𝐑 &nbsp;&nbsp; 𝐒 𝐓 𝐀 𝐓 𝐒 
 </h2>
 <br>
 
@@ -89,12 +82,15 @@
     <img src="https://futuristic-stats.vercel.app/api?username=adit-ya15&theme=platinum&text=ADITYA" alt="Developer Stats" />
   </a>
 </div>
+
+<br>
+<h2 align="center"> 
+  𝐌 𝐘 &nbsp;&nbsp; 𝐒 𝐓 𝐀 𝐓 𝐒 
+</h2>
 <br>
 
 <div align="center">
-  <img src="https://royal-github-stats.vercel.app/api?username=adit-ya15&theme=royal" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adit-ya15&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://royal-github-stats.vercel.app/api?username=adit-ya15&theme=royal" alt="Cinematic GitHub Stats" />
 </div>
 
 <br>
@@ -120,13 +116,33 @@
 
 <br>
 <h2 align="center"> 
-  🤝 &nbsp;&nbsp; 𝐋 𝐄 𝐓 ' 𝐒 &nbsp;&nbsp; 𝐂 𝐎 𝐍 𝐍 𝐄 𝐂 𝐓 
+  𝐋 𝐄 𝐓 ' 𝐒 &nbsp;&nbsp; 𝐂 𝐎 𝐍 𝐍 𝐄 𝐂 𝐓 
 </h2>
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:your-email@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://null-music.netlify.app/" style="text-decoration:none;"><img src="https://img.shields.io/badge/🚀%20Try%20Null%20Music-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Try Null" /></a>
+  <a href="https://www.instagram.com/aditya/" target="_blank">
+    <img src="https://readme-social-icons.vercel.app/api/socials?icon=instagram&theme=royal" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aditya" target="_blank">
+    <img src="https://readme-social-icons.vercel.app/api/socials?icon=linkedin&theme=royal" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://readme-social-icons.vercel.app/api/socials?icon=gmail&theme=royal" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/your-number" target="_blank">
+    <img src="https://readme-social-icons.vercel.app/api/socials?icon=whatsapp&theme=royal" alt="WhatsApp"/>
+  </a>
 </div>
+
+<p align="center"> 
+  <a href="https://aditya-frontend-portfolio.vercel.app/" target="_blank"> 
+    <img src="https://readme-social-icons.vercel.app/api/button?theme=royal" width="160" alt="Access Portfolio"/> 
+  </a> 
+</p>
 
 <br>
 
