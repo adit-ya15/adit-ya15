@@ -1,0 +1,50 @@
+name: Generate Royal Cyber-Worm
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
+  push:
+    branches:
+    - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Create Dist Folder
+        run: mkdir -p dist
+
+      # 1. RUN THE REAL GAME ENGINE (Saves as base-snake.svg)
+      - name: Generate Base Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/base-snake.svg?color_bg=#0d0e15&color_snake=#00e5ff&color_dots=#1a1c23,#5a4b16,#8a7322,#b89930,#d4af37
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. RUN OUR INTERCEPTOR (Wraps it in HUD and adds Glow)
+      - name: Inject Royal Arsenal Theme
+        run: node .github/scripts/royal-enhancer.js
+
+      # 3. PUSH THE MASTERPIECE
+      - name: Push to Royal Assets Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: royal-assets
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
