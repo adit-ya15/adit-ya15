@@ -5,7 +5,9 @@
 <img src="https://komarev.com/ghpvc/?username=adit-ya15&color=00000000" alt="hidden-counter" width="0" height="0" style="display:none !important;" />
 
 <div align="center">
-  <img src="https://hero-section-gules.vercel.app/api/hero?v=1" alt="Aditya Profile Hero" />
+  <a href="https://github.com/adit-ya15">
+    <img src="https://futuristic-stats.vercel.app/api?username=adit-ya15&theme=tokyonight&text=ADITYA" alt="Developer Stats" />
+  </a>
 </div>
 
 <br>
@@ -124,7 +126,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adit-ya15/adit-ya15/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/adit-ya15/adit-ya15/royal-assets/royal-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <br>
