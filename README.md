@@ -8,7 +8,7 @@
 
 <br>
 <div align="center">
-  <img src="https://hero-section-gules.vercel.app/api/hero?name=ADITYA" alt="Aditya Profile Hero" />
+  <img src="hero.svg" alt="Aditya Profile Hero" />
 </div>
 
 <br>
