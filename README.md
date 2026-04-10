@@ -1,14 +1,10 @@
 <div align="center"> 
-  <img src="https://banners-opal.vercel.app/api/banner?type=header&text=ADITYA&theme=tokyonight" alt="Header Wave" />
+  <img src="https://banners-opal.vercel.app/api/banner?type=header&text=ADITYA&theme=royal" alt="Header Wave" />
 </div> 
 
 <img src="https://komarev.com/ghpvc/?username=adit-ya15&color=00000000" alt="hidden-counter" width="0" height="0" style="display:none !important;" />
 
-<div align="center">
-  <a href="https://github.com/adit-ya15">
-    <img src="https://futuristic-stats.vercel.app/api?username=adit-ya15&theme=tokyonight&text=ADITYA" alt="Developer Stats" />
-  </a>
-</div>
+
 
 <br>
 <h2 align="center"> 
@@ -18,7 +14,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend-focused+Full+Stack+Developer;Building+Production-Ready+Applications;Real-World+CI%2FCD+Pipelines+%26+DevOps;Engineering+Scalable+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Backend-focused+Full+Stack+Developer;Building+Production-Ready+Applications;Real-World+CI%2FCD+Pipelines+%26+DevOps;Engineering+Scalable+Architectures" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,17 +25,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/adit-ya15/devsync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adit-ya15&repo=devsync&theme=tokyonight" alt="DevSync" />
-  </a>
+  <a href="https://github.com/adit-ya15/devsync"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=devsync&theme=dracula" alt="DevSync" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/adit-ya15/BackendProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adit-ya15&repo=BackendProject&theme=tokyonight" alt="Backend Project" />
-  </a>
+  <a href="https://github.com/adit-ya15/BackendProject"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=BackendProject&theme=dracula" alt="Backend Project" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/adit-ya15/music-player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adit-ya15&repo=music-player&theme=tokyonight" alt="Music Player" />
-  </a>
+  <a href="https://github.com/adit-ya15/music-player"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=music-player&theme=dracula" alt="Music Player" /></a>
 </div>
 
 <br>
@@ -95,9 +85,16 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adit-ya15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/adit-ya15/github-futuristic-stats">
+    <img src="https://futuristic-stats.vercel.app/api?username=adit-ya15&theme=platinum&text=ADITYA" alt="Developer Stats" />
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://royal-github-stats.vercel.app/api?username=adit-ya15&theme=royal" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adit-ya15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adit-ya15&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -111,16 +108,7 @@
 </div>
 
 <br>
-<h2 align="center"> 
-  🏆 &nbsp;&nbsp; 𝐀 𝐂 𝐇 𝐈 𝐄 𝐕 𝐄 𝐌 𝐄 𝐍 𝐓 𝐒 
-</h2>
-<br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adit-ya15&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
-<br>
 <h2 align="center"> 
   🐍 &nbsp;&nbsp; 𝐂 𝐎 𝐍 𝐓 𝐑 𝐈 𝐁 𝐔 𝐓 𝐈 𝐎 𝐍 &nbsp;&nbsp; 𝐒 𝐍 𝐀 𝐊 𝐄 
 </h2>
@@ -137,21 +125,11 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://null-music.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀%20Try%20Null%20Music-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Try Null" />
-  </a>
+  <a href="https://www.linkedin.com/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:your-email@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://null-music.netlify.app/" style="text-decoration:none;"><img src="https://img.shields.io/badge/🚀%20Try%20Null%20Music-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Try Null" /></a>
 </div>
 
 <br>
 
 <div align="center"> 
-  <img src="https://banners-opal.vercel.app/api/banner?type=footer&theme=tokyonight" alt="Footer Wave" />
+  <img src="https://banners-opal.vercel.app/api/banner?type=footer&theme=royal" alt="Footer Wave" />
 </div>
