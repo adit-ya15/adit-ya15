@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://banners-opal.vercel.app/api/banner?type=header&text=ADITYA&theme=royal" alt="Header Wave" />
+  <img src="https://banners-opal.vercel.app/api/banner?type=header&text=ADITYA&theme=tokyonight" alt="Header Wave" />
 </div> 
 
 <img src="https://komarev.com/ghpvc/?username=adit-ya15&color=00000000" alt="hidden-counter" width="0" height="0" style="display:none !important;" />
@@ -17,8 +17,9 @@
 <br>
 
 <div align="center">
-  <p>Backend-focused Full Stack Developer building <b>production-ready applications</b><br>
-  with real-world deployment, CI/CD pipelines, and scalable architecture</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend-focused+Full+Stack+Developer;Building+Production-Ready+Applications;Real-World+CI%2FCD+Pipelines+%26+DevOps;Engineering+Scalable+Architectures" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -116,7 +117,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adit-ya15&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adit-ya15&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
 
 <br>
@@ -152,5 +153,5 @@
 <br>
 
 <div align="center"> 
-  <img src="https://banners-opal.vercel.app/api/banner?type=footer&theme=royal" alt="Footer Wave" />
+  <img src="https://banners-opal.vercel.app/api/banner?type=footer&theme=tokyonight" alt="Footer Wave" />
 </div>
