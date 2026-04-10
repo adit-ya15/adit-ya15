@@ -121,19 +121,19 @@
 <br>
 
 <div align="center">
-  <a href="https://www.instagram.com/aditya/" target="_blank">
+  <a href="https://www.instagram.com/adit.ya15/" target="_blank">
     <img src="https://readme-social-icons.vercel.app/api/socials?icon=instagram&theme=royal" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aditya" target="_blank">
+  <a href="https://www.linkedin.com/in/adityaverma-dev" target="_blank">
     <img src="https://readme-social-icons.vercel.app/api/socials?icon=linkedin&theme=royal" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:aditya262701@gmail.com" target="_blank">
     <img src="https://readme-social-icons.vercel.app/api/socials?icon=gmail&theme=royal" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/your-number" target="_blank">
+  <a href="https://wa.me/6393027647" target="_blank">
     <img src="https://readme-social-icons.vercel.app/api/socials?icon=whatsapp&theme=royal" alt="WhatsApp"/>
   </a>
 </div>
