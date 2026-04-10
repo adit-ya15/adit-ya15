@@ -2,9 +2,9 @@ import base64
 import urllib.request
 import re
 
-with open(r'C:\Users\adity\.gemini\antigravity\brain\646d578b-4f52-4600-8fbd-16154262d9d0\media__1775846682630.png', 'rb') as f:
+with open(r'C:\Users\adity\.gemini\antigravity\brain\646d578b-4f52-4600-8fbd-16154262d9d0\media__1775847836092.jpg', 'rb') as f:
     img_b64 = base64.b64encode(f.read()).decode('utf-8')
-    prefix = 'data:image/png;base64,'
+    prefix = 'data:image/jpeg;base64,'
     aditya_img = prefix + img_b64
 
 url = 'https://hero-section-gules.vercel.app/api/hero?name=ADITYA'
