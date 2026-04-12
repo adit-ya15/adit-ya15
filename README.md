@@ -18,19 +18,13 @@
 <br>
 
 <div align="center">
-<<<<<<< HEAD
-  <a href="https://github.com/adityavermaa-dev/devsync"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=devsync&theme=dracula" alt="DevSync" /></a>
-=======
-  <a href="https://github.com/adityavermaa-dev/devsync-backend"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=devsync&theme=dracula" alt="DevSync" /></a>
->>>>>>> a056b8de421064260a1955066b85deebf0db2854
+  <a href="https://github.com/adityavermaa-dev/DevSync-backend"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=DevSync-backend&theme=dracula" alt="DevSync Backend" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/adityavermaa-dev/DevSync-frontend"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=DevSync-frontend&theme=dracula" alt="DevSync Frontend" /></a>
+  <br><br>
+  <a href="https://github.com/adityavermaa-dev/null-music"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=null-music&theme=dracula" alt="Null Music" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/adityavermaa-dev/BackendProject"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=BackendProject&theme=dracula" alt="Backend Project" /></a>
-  &nbsp;&nbsp;&nbsp;
-<<<<<<< HEAD
-  <a href="https://github.com/adityavermaa-dev/music-player"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=music-player&theme=dracula" alt="Music Player" /></a>
-=======
-  <a href="https://github.com/adityavermaa-dev/null-music"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=music-player&theme=dracula" alt="Music Player" /></a>
->>>>>>> a056b8de421064260a1955066b85deebf0db2854
 </div>
 
 <br>
