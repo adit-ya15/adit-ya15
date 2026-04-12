@@ -2,7 +2,7 @@
   <img src="https://banners-opal.vercel.app/api/banner?type=header&text=ADITYA&theme=royal" alt="Header Wave" />
 </div> 
 
-<img src="https://komarev.com/ghpvc/?username=adit-ya15&color=00000000" alt="hidden-counter" width="0" height="0" style="display:none !important;" />
+<img src="https://komarev.com/ghpvc/?username=adityavermaa-dev&color=00000000" alt="hidden-counter" width="0" height="0" style="display:none !important;" />
 
 
 
@@ -18,11 +18,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/adit-ya15/devsync"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=devsync&theme=dracula" alt="DevSync" /></a>
+  <a href="https://github.com/adityavermaa-dev/devsync-backend"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=devsync&theme=dracula" alt="DevSync" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/adit-ya15/BackendProject"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=BackendProject&theme=dracula" alt="Backend Project" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/adit-ya15/music-player"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=music-player&theme=dracula" alt="Music Player" /></a>
+  <a href="https://github.com/adityavermaa-dev/null-music"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=music-player&theme=dracula" alt="Music Player" /></a>
 </div>
 
 <br>
