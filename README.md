@@ -2,7 +2,7 @@
   <img src="https://banners-opal.vercel.app/api/banner?type=header&text=ADITYA&theme=royal" alt="Header Wave" />
 </div> 
 
-<img src="https://komarev.com/ghpvc/?username=adit-ya15&color=00000000" alt="hidden-counter" width="0" height="0" style="display:none !important;" />
+<img src="https://komarev.com/ghpvc/?username=adityavermaa-dev&color=00000000" alt="hidden-counter" width="0" height="0" style="display:none !important;" />
 
 
 
@@ -18,11 +18,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/adit-ya15/devsync"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=devsync&theme=dracula" alt="DevSync" /></a>
+  <a href="https://github.com/adityavermaa-dev/devsync"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=devsync&theme=dracula" alt="DevSync" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/adit-ya15/BackendProject"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=BackendProject&theme=dracula" alt="Backend Project" /></a>
+  <a href="https://github.com/adityavermaa-dev/BackendProject"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=BackendProject&theme=dracula" alt="Backend Project" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/adit-ya15/music-player"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adit-ya15&repo=music-player&theme=dracula" alt="Music Player" /></a>
+  <a href="https://github.com/adityavermaa-dev/music-player"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=adityavermaa-dev&repo=music-player&theme=dracula" alt="Music Player" /></a>
 </div>
 
 <br>
@@ -78,8 +78,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/adit-ya15/github-futuristic-stats">
-    <img src="https://futuristic-stats.vercel.app/api?username=adit-ya15&theme=platinum&text=ADITYA" alt="Developer Stats" />
+  <a href="https://github.com/adityavermaa-dev/github-futuristic-stats">
+    <img src="https://futuristic-stats.vercel.app/api?username=adityavermaa-dev&theme=platinum&text=ADITYA" alt="Developer Stats" />
   </a>
 </div>
 
@@ -90,7 +90,7 @@
 <br>
 
 <div align="center">
-  <img src="https://royal-github-stats.vercel.app/api?username=adit-ya15&theme=royal" alt="Cinematic GitHub Stats" />
+  <img src="https://royal-github-stats.vercel.app/api?username=adityavermaa-dev&theme=royal" alt="Cinematic GitHub Stats" />
 </div>
 
 <br>
@@ -100,7 +100,7 @@
 <br>
 
 <div align="center">
-  <img src="https://commit-matrix.vercel.app/api?username=adit-ya15" alt="Contribution Matrix" />
+  <img src="https://commit-matrix.vercel.app/api?username=adityavermaa-dev" alt="Contribution Matrix" />
 </div>
 
 <br>
@@ -111,7 +111,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adit-ya15/adit-ya15/royal-assets/royal-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/adityavermaa-dev/adityavermaa-dev/royal-assets/royal-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <br>
