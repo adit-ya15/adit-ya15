@@ -40,6 +40,12 @@ jobs:
       - name: Inject Royal Arsenal Theme
         run: node .github/scripts/royal-enhancer.js
 
+      - name: Download Dynamic Stats
+        run: |
+          curl -s "https://royal-github-stats.vercel.app/api?username=adityavermaa-dev&theme=royal" -o dist/royal-stats.svg
+          curl -s "https://futuristic-stats.vercel.app/api?username=adityavermaa-dev&theme=platinum&text=ADITYA" -o dist/futuristic-stats.svg
+          curl -s "https://commit-matrix.vercel.app/api?username=adityavermaa-dev" -o dist/commit-matrix.svg
+
       # 3. PUSH THE MASTERPIECE
       - name: Push to Royal Assets Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

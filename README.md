@@ -81,7 +81,7 @@
 
 <div align="center">
   <a href="https://github.com/adityavermaa-dev/github-futuristic-stats">
-    <img src="https://futuristic-stats.vercel.app/api?username=adityavermaa-dev&theme=platinum&text=ADITYA" alt="Developer Stats" />
+    <img src="https://raw.githubusercontent.com/adityavermaa-dev/adityavermaa-dev/royal-assets/futuristic-stats.svg" alt="Developer Stats" />
   </a>
 </div>
 
@@ -92,7 +92,7 @@
 <br>
 
 <div align="center">
-  <img src="https://royal-github-stats.vercel.app/api?username=adityavermaa-dev&theme=royal" alt="Cinematic GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/adityavermaa-dev/adityavermaa-dev/royal-assets/royal-stats.svg" alt="Cinematic GitHub Stats" />
 </div>
 
 <br>
@@ -102,7 +102,7 @@
 <br>
 
 <div align="center">
-  <img src="https://commit-matrix.vercel.app/api?username=adityavermaa-dev" alt="Contribution Matrix" />
+  <img src="https://raw.githubusercontent.com/adityavermaa-dev/adityavermaa-dev/royal-assets/commit-matrix.svg" alt="Contribution Matrix" />
 </div>
 
 <br>
