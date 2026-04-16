@@ -59,7 +59,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,react,nextjs,tailwind,ts,redis,aws,nginx,docker,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,react,nextjs,java,tailwind,javascript,html,css,redux,aws,nginx,docker,git,github" alt="Tech Stack" />
 </div>
 
 <br>
@@ -123,7 +123,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.instagram.com/adit.ya15/" target="_blank">
+  <a href="https://www.instagram.com/adityavermaa-dev/" target="_blank">
     <img src="https://readme-social-icons.vercel.app/api/socials?icon=instagram&theme=royal" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
