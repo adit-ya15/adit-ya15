@@ -80,9 +80,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/adityavermaa-dev/github-futuristic-stats">
-    <img src="https://raw.githubusercontent.com/adityavermaa-dev/adityavermaa-dev/royal-assets/futuristic-stats.svg" alt="Developer Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityavermaa-dev&show_icons=true&theme=dracula" alt="Developer Stats" />
 </div>
 
 <br>
@@ -92,17 +90,17 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adityavermaa-dev/adityavermaa-dev/royal-assets/royal-stats.svg" alt="Cinematic GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityavermaa-dev&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 <br>
 <h2 align="center"> 
-  📈 &nbsp;&nbsp; 𝐂 𝐎 𝐍 𝐓 𝐑 𝐈 𝐁 𝐔 𝐓 𝐈 𝐎 𝐍 &nbsp;&nbsp; 𝐀 𝐂 𝐓 𝐈 𝐕 𝐈 𝐓 𝐘 
+  📈 &nbsp;&nbsp; 𝐂 𝐎 𝐍 𝐓 𝐑 𝐈 𝐁 𝐔 𝐓 𝐈 𝐎 𝐍 &nbsp;&nbsp; 𝐆 𝐑 𝐀 𝐏 𝐇 
 </h2>
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adityavermaa-dev/adityavermaa-dev/royal-assets/commit-matrix.svg" alt="Contribution Matrix" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityavermaa-dev&theme=dracula" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -113,7 +111,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityavermaa-dev/adityavermaa-dev/royal-assets/royal-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-contribution-stats.vercel.app/api/github-contribution-stats?username=adityavermaa-dev&theme=dracula" alt="GitHub Contribution Snake" />
 </p>
 
 <br>
